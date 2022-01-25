@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sametbasturkk.github.io/seo-analiz-google-siralama-yarismasi/sitemap.xml
